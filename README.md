@@ -13,7 +13,7 @@
 
 ### 🚀 Professional Snapshot
 - **Age:** 14 years old
-- **Experience:** 5+ years of continuous development journey
+- **Experience:** 7+ years of continuous development journey
 - **Specialization:** Backend engineering, scalable architecture, high-performance UI/UX
 - **Vision:** Building systems that blend performance, security, and elegance
 
