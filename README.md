@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Vorlaxen | Digital Systems Architect 🛰️</h1>
+<h1 align="center">Vorlaxen | Digital Systems Architect</h1>
 <p align="center">"Building scalable realities through code and design"</p>
 
 ---
