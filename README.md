@@ -12,7 +12,7 @@
 ## 🌌 Quantum Profile
 
 ### 🚀 Professional Snapshot
-- **Age:** 15 years old
+- **Age:** 16 years old
 - **Experience:** 7+ years of continuous development journey
 - **Specialization:** Backend engineering, scalable architecture, high-performance UI/UX
 - **Vision:** Building systems that blend performance, security, and elegance
