@@ -62,11 +62,11 @@ const vorlaxen = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vorlaxen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vorlaxen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vorlaxen&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vorlaxen&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorlaxen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorlaxen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
@@ -99,21 +99,8 @@ const vorlaxen = {
 
 ---
 
-## 🚀 Featured Projects
-
-```javascript
-// Coming soon - Building something extraordinary
-const projects = {
-  status: "Under Development",
-  focus: ["Scalable Backend Systems", "Modern UI/UX", "AI Integration"],
-  tech: ["Node.js", "React", "Redis", "MySQL", "Docker"]
-};
-```
-
----
-
 ## 📈 Activity Graph
 
-[![Vorlaxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vorlaxen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Vorlaxen)
+[![Vorlaxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vorlaxen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Vorlaxen)
 
 ---
