@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Vorlaxen
+# Vorlaxen
 
 ### Digital Systems Architect & Full-Stack Engineer
 
