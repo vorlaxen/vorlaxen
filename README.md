@@ -1,6 +1,7 @@
 # Vorlaxen
 
 <div align="center">
+  
 ### Digital Systems Architect & Full-Stack Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Systems+Engineer;Scalable+Architecture+Designer;High-Performance+UI%2FUX+Developer;Building+The+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
