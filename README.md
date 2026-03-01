@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const vorlaxen = {
@@ -32,7 +32,7 @@ const vorlaxen = {
 
 ---
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 ### Backend Engineering
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,7 +58,7 @@ const vorlaxen = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -72,13 +72,13 @@ const vorlaxen = {
 
 ---
 
-## 🎨 Development Philosophy
+## Development Philosophy
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ Architecture
+### Architecture
 - Modular & Scalable Design
 - Microservices Patterns
 - Event-Driven Systems
@@ -87,7 +87,7 @@ const vorlaxen = {
 </td>
 <td width="50%">
 
-### 🔒 Security & Performance
+### Security & Performance
 - Security-First Approach
 - Performance Optimization
 - Database Query Tuning
