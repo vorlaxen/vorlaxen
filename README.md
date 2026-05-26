@@ -1,4 +1,4 @@
-## Vorlaxen - Full-Stack Developer
+## Vorlaxen - Developer
 
 Building high‑performance backend systems and modern web platforms.
 
