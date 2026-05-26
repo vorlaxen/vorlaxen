@@ -1,6 +1,6 @@
 # Vorlaxen
 
-## Systems Architect & Full‑Stack Engineer
+## Full-Stack Developer
 
 Building high‑performance backend systems and modern web platforms.
 
@@ -58,7 +58,6 @@ Currently working on high‑performance APIs, modern frontend interfaces and dis
 ## Areas of Interest
 
 * Distributed systems
-* Microservice architecture
 * Cloud infrastructure
 * High‑performance backend design
 
