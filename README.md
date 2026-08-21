@@ -4,13 +4,7 @@ Software developer from Türkiye working on backend systems, DevOps, open-source
 
 I build APIs, developer tools, deployment workflows and full-stack products—primarily with TypeScript and Node.js. I also work with embedded systems and hardware when a project goes beyond the browser.
 
-Currently building projects under **Vorlaxen Labs** and developing software at **Xristal Bilgi Sistemleri**.
-
-## Current Work
-
-* **Vorlaxen Labs** — Open-source tools built to make backend development simpler and more consistent.
-* **Scam Lens for Discord** — An open-source security project focused on detecting scam activity in Discord communities.
-* **BaR.js** — A lightweight response-handling library for Node.js APIs.
+Currently building projects under **Vorlaxen Labs** and developing software at **Xristal Ltd. Şti.**.
 
 ## Toolbox
 
