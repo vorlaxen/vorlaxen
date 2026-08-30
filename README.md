@@ -20,4 +20,4 @@ I try to write clean and maintainable code. I build systems that are easy to und
 
 ## Links
 
-[Website](https://www.vorlaxen.com) · [Vorlaxen Labs](https://docs.vorlaxen.com) · [LinkedIn](https://www.linkedin.com/in/vorlaxen)
+[Website](https://www.vorlaxen.com) · [Vorlaxen Labs](https://labs.vorlaxen.com) · [LinkedIn](https://www.linkedin.com/in/vorlaxen)
