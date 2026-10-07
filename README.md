@@ -1,22 +1,24 @@
 # Vorlaxen
 
-I am a software developer from Türkiye. I work on backend systems, DevOps, open-source software and modern web applications.
+I’m a software developer from Türkiye. I mainly work on backend systems, DevOps, open-source projects, and modern web applications.
 
-I build APIs, developer tools, deployment systems and full-stack applications, mainly with TypeScript and Node.js. I also enjoy working with embedded systems and hardware.
+I build APIs, developer tools, deployment systems, and full-stack applications, mostly using TypeScript and Node.js. I also enjoy working with embedded systems, electronics, and hardware projects.
 
-I currently build projects at **Vorlaxen Labs** and develop software at **Xristal Ltd. Şti.**
+I currently build and develop projects at **Vorlaxen Labs**, where I focus on software, developer tools, and infrastructure.
 
 ## Technologies
 
-* **Backend:** TypeScript, Node.js, Express, NestJS and Sequelize
-* **Frontend:** React, Vite and Tailwind CSS
-* **Databases:** PostgreSQL, MySQL and Redis
-* **DevOps:** Docker, Coolify, CapRover and Git
-* **Other:** Python, C# and embedded systems
+* **Backend:** TypeScript, Node.js, Express, NestJS, Sequelize
+* **Frontend:** React, Vite, Tailwind CSS
+* **Databases:** PostgreSQL, MySQL, Redis
+* **DevOps:** Docker, Coolify, CapRover, Git
+* **Other:** Python, C#, C/C++ and embedded systems
 
 ## My Approach
 
-I try to write clean and maintainable code. I build systems that are easy to understand, improve and deploy. I also care about good database design, reliable infrastructure and security from the start.
+I like building software that is clean, practical, and easy to maintain. I care about good architecture, database design, security, and reliable infrastructure.
+
+I also prefer building things from the ground up when it gives me more control over the system and helps me understand how everything works.
 
 ## Links
 
