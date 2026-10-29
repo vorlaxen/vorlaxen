@@ -1,26 +1,21 @@
-# Vorlaxen
+# Hakan K.
 
-I’m a software developer from Türkiye. I mainly work on backend systems, DevOps, open-source projects, and modern web applications.
+I write software at [Vorlaxen Labs](https://www.vorlaxen.com). Most of what I publish is TypeScript and Node.js (libraries, a CLI, a Discord bot) or C++ (a micromouse, and firmware for an ESP8266). I live in Türkiye.
 
-I build APIs, developer tools, deployment systems, and full-stack applications, mostly using TypeScript and Node.js. I also enjoy working with embedded systems, electronics, and hardware projects.
+## Repos
 
-I currently build and develop projects at **Vorlaxen Labs**, where I focus on software, developer tools, and infrastructure.
+[bar-js](https://github.com/vorlaxen-labs/bar-js) builds JSON responses for Express and Fastify. Fluent wrapper, request ids, no runtime dependencies. npm: [@vorlaxen-labs/bar-js](https://www.npmjs.com/package/@vorlaxen-labs/bar-js).
 
-## Technologies
+[huk-js](https://github.com/vorlaxen-labs/huk-js) is a TypeScript utility library with no dependencies: Turkish-aware slugify, validation, a bit of crypto, and storage that still works under SSR. npm: [@vorlaxen-labs/huk-js](https://www.npmjs.com/package/@vorlaxen-labs/huk-js).
 
-* **Backend:** TypeScript, Node.js, Express, NestJS, Sequelize
-* **Frontend:** React, Vite, Tailwind CSS
-* **Databases:** PostgreSQL, MySQL, Redis
-* **DevOps:** Docker, Coolify, CapRover, Git
-* **Other:** Python, C#, C/C++ and embedded systems
+[agent-skills](https://github.com/vorlaxen-labs/agent-skills) is a CLI that installs `SKILL.md` files into Cursor, Claude Code, Copilot, Windsurf, Codex, and Gemini. The packs live in [skills-hub](https://github.com/vorlaxen-labs/skills-hub).
 
-## My Approach
+[scam-lens-for-discord](https://github.com/vorlaxen-labs/scam-lens-for-discord) flags scam images and shady domains in a Discord server.
 
-I like building software that is clean, practical, and easy to maintain. I care about good architecture, database design, security, and reliable infrastructure.
+[AratMicro](https://github.com/vorlaxen-labs/AratMicro) is a micromouse built for Robosam and the MEB robot competition. C++, KiCad, PlatformIO.
 
-I also prefer building things from the ground up when it gives me more control over the system and helps me understand how everything works.
+[v-esp8266-lcd-mqtt](https://github.com/vorlaxen/v-esp8266-lcd-mqtt) is ESP8266 firmware. Captive portal for Wi-Fi, a web panel on the LAN, MQTT, and Turkish characters on a 16×2 I2C LCD.
 
 ## Links
 
-[Website](https://www.vorlaxen.com) · [Vorlaxen Labs](https://labs.vorlaxen.com) · [LinkedIn](https://www.linkedin.com/in/vorlaxen)
-/./././
+[vorlaxen.com](https://www.vorlaxen.com) · [LinkedIn](https://www.linkedin.com/in/vorlaxen) · [X](https://x.com/vorlaxen) · [YouTube](https://www.youtube.com/@vorlaxen)
